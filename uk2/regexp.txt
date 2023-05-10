@@ -1,0 +1,6 @@
+grep -E '\<[a-zA-Z][0-9]\w*\>' test.txt
+grep -E '^[a-zA-Z0-9]+$' test.txt
+grep -E '^[a-z]{4}$' test.txt
+grep -E '^[a-zA-Z]*$' test.txt
+grep -E '^(ab|ba)[a-z0-9]*[c-z]*$' test.txt
+grep -E '[0-9]+' test.txt

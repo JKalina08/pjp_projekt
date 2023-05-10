@@ -1,0 +1,7 @@
+Slova a vety budeme zde pocitati.
+
+Snad i cisla taky.
+Jedna
+Dva
+
+Konec.

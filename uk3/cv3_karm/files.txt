@@ -1,0 +1,13 @@
+Asennus.html
+sanakirjat.txt
+Cartman.jpg
+eyetest.png
+/usr/doc/info.txt
+package.rar
+stuff.tar.gz
+zip.rar
+document.html
+a.fig
+directory
+unknown.xxx
+foto.tiff

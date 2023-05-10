@@ -1,0 +1,19 @@
+/*
+  This is a multiline comment
+  that can span multiple lines
+  and is commonly used to provide
+  descriptions of code sections or
+  to temporarily disable code.
+*/
+
+// This is a single line comment that terminates at the end of the line.
+
+#include <stdio.h> // This is a comment after a preprocessor directive.
+
+int main() {
+  // This is a comment inside a function.
+  printf("Hello, world!"); // This is a comment after a line of code.
+  return 0;
+}
+
+// This is a comment after the end of the main function.
